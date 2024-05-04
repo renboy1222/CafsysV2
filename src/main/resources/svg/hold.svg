@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="bkgrnd.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.79125"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     x="0.30180094"
+     y="0.24805686"
+     width="23.308058"
+     height="23.535543"
+     rx="2.5897841"
+     fill="#2a4157"
+     fill-opacity="0.24"
+     id="rect1"
+     style="stroke-width:1.3012" />
+  <path
+     d="M17 9L13.9558 13.5662C13.5299 14.2051 12.5728 14.1455 12.2294 13.4587L11.7706 12.5413C11.4272 11.8545 10.4701 11.7949 10.0442 12.4338L7 17"
+     stroke="#222222"
+     stroke-width="1.2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1" />
+  <g
+     id="hand-package"
+     transform="matrix(0.24599453,0,0,0.28105049,0.75299991,-0.2333256)">
+    <g
+       id="hand-package-2"
+       data-name="hand-package">
+      <g
+         id="fill">
+        <rect
+           class="cls-1"
+           x="1.8"
+           y="41.43"
+           width="21.42"
+           height="32.599998"
+           id="rect1-7"
+           style="fill:#ff8898" />
+        <polygon
+           class="cls-2"
+           points="25.1,41.44 25.1,17.43 32.84,32 25.1,45.78 25.1,41.53 "
+           id="polygon1"
+           style="fill:#c7c7c7" />
+        <path
+           class="cls-3"
+           d="m 36.08,33.9 h 7 v 7.59 l 3.05,3 3.45,-1.73 3.08,1.54 3.08,-1.54 3.45,1.73 3.06,-3 V 33.9 h 8.61 l 8,18.09 H 43.3 a 1.78,1.78 0 0 0 -0.28,0.06 c -2.91,-2 -7.12,-4.21 -14.4,-4.89 z"
+           id="path1-3"
+           style="fill:#c4c4c4" />
+        <polygon
+           class="cls-2"
+           points="74.2,32.04 80.34,18.56 80.34,46 "
+           id="polygon2"
+           style="fill:#c7c7c7" />
+        <polygon
+           class="cls-4"
+           points="62.3,30.15 62.3,11.78 79.3,11.78 70.93,30.15 "
+           id="polygon3"
+           style="fill:#d6d6d6" />
+        <polygon
+           class="cls-4"
+           points="26.34,11.78 43.13,11.78 43.13,30.15 36.11,30.15 "
+           id="polygon4"
+           style="fill:#d6d6d6" />
+        <polygon
+           class="cls-5"
+           points="58.51,39.97 55.8,38.61 52.72,40.15 49.63,38.61 46.92,39.97 46.89,11.78 58.54,11.78 58.54,39.93 "
+           id="polygon5"
+           style="fill:#ffeb97" />
+        <path
+           class="cls-6"
+           d="M 52.31,78.23 C 46.82,78.23 39.92,74.72 34.37,71.9 30.56,70 27.45,68.38 25.1,68 V 50.73 c 10.1,0.21 14.37,3.33 17.49,5.62 1.81,1.33 3.41,2.48 5.41,2.48 h 0.21 c 2.89,0 9.57,0 11.83,2.7 a 3.2,3.2 0 0 1 0.7,1.74 H 38.85 a 1.88,1.88 0 0 0 0,3.76 h 23.54 c 4.37,1 9.31,-3.17 13.69,-6.84 C 78,58.54 81,56.06 82,56 c 3.06,0 4.37,1.38 4.37,4.61 -0.05,3.85 -23.15,17.62 -34.06,17.62 z"
+           id="path5"
+           style="fill:#ffdac6" />
+        <circle
+           class="cls-7"
+           cx="12.51"
+           cy="64.510002"
+           r="3.76"
+           id="circle5"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="outline">
+        <path
+           class="cls-8"
+           d="M 82.21,55.67 H 43.3 a 1.8,1.8 0 1 1 0,-3.6 H 80.41 V 11.7 H 25 v 29.83 a 1.8,1.8 0 1 1 -3.6,0 V 9.9 a 1.8,1.8 0 0 1 1.8,-1.8 h 59 A 1.8,1.8 0 0 1 84,9.9 v 44 a 1.8,1.8 0 0 1 -1.79,1.77 z"
+           id="path6"
+           style="fill:#576065" />
+        <path
+           class="cls-8"
+           d="M 26.34,49.2 A 1.8,1.8 0 0 1 24.77,46.52 L 33.42,31.14 A 1.8,1.8 0 0 1 35,30.23 h 10 a 1.8,1.8 0 0 1 0,3.6 h -9 l -8.09,14.45 a 1.8,1.8 0 0 1 -1.57,0.92 z"
+           id="path7"
+           style="fill:#576065" />
+        <path
+           class="cls-8"
+           d="M 81.33,54.7 A 1.8,1.8 0 0 1 79.68,53.62 L 71,33.83 H 60.42 a 1.8,1.8 0 0 1 0,-3.6 h 11.72 a 1.8,1.8 0 0 1 1.65,1.08 L 83,52.18 a 1.8,1.8 0 0 1 -1.65,2.52 z"
+           id="path8"
+           style="fill:#576065" />
+        <path
+           class="cls-8"
+           d="M 72.14,33.83 A 1.78,1.78 0 0 1 71.4,33.67 1.8,1.8 0 0 1 70.51,31.29 L 80.58,9.15 a 1.8012843,1.8012843 0 0 1 3.28,1.49 L 73.78,32.77 a 1.8,1.8 0 0 1 -1.64,1.06 z"
+           id="path9"
+           style="fill:#576065" />
+        <path
+           class="cls-8"
+           d="m 35,33.83 a 1.8,1.8 0 0 1 -1.59,-1 L 21.63,10.74 A 1.8005902,1.8005902 0 0 1 24.81,9.05 L 36.57,31.18 A 1.8,1.8 0 0 1 35,33.83 Z"
+           id="path10"
+           style="fill:#576065" />
+        <path
+           class="cls-8"
+           d="m 46.2,44.44 -3,-3 V 8.1 h 19 v 33.36 l -3,3 -3.4,-1.74 -3.08,1.54 -3.08,-1.54 z m 3.43,-5.74 3.08,1.54 3.09,-1.54 2.72,1.36 0.1,-0.1 V 11.7 H 46.81 V 40 l 0.1,0.1 z"
+           id="path11"
+           style="fill:#576065" />
+        <path
+           class="cls-8"
+           d="m 52.31,81.9 c -6.37,0 -13.71,-3.73 -19.61,-6.73 -3.46,-1.76 -7,-3.58 -8.6,-3.58 a 1.8,1.8 0 0 1 0,-3.6 c 2.42,0 5.87,1.75 10.23,4 5.55,2.82 12.46,6.34 18,6.34 10.93,0 34.09,-13.83 34.09,-17.65 C 86.4,57.42 85,56 82,56 c -1,0 -4,2.5 -5.93,4.16 -4.48,3.75 -9.56,8 -14,6.75 a 1.8,1.8 0 0 1 -1.28,-2 3.88,3.88 0 0 0 -0.66,-3.35 c -2.29,-2.74 -9,-2.74 -11.89,-2.73 H 48 c -2,0 -3.6,-1.14 -5.4,-2.46 -3.16,-2.32 -7.5,-5.5 -17.86,-5.64 a 1.8,1.8 0 0 1 0,-3.6 v 0 c 11.52,0.16 16.59,3.88 19.94,6.34 1.4,1 2.41,1.76 3.27,1.76 h 0.2 c 3.64,0 11.29,0 14.65,4 a 6.85,6.85 0 0 1 1.6,4.26 c 2.65,-0.54 6.38,-3.67 9.23,-6.06 3.33,-2.79 6,-5 8.24,-5 5.11,0 8,3 8,8.28 C 90,68.49 62.2,81.9 52.31,81.9 Z"
+           id="path12"
+           style="fill:#576065" />
+        <path
+           class="cls-8"
+           d="M 23.22,75.83 H 1.8 A 1.8,1.8 0 0 1 0,74 V 41.43 a 1.8,1.8 0 0 1 1.8,-1.8 h 21.42 a 1.8,1.8 0 0 1 1.8,1.8 V 74 a 1.8,1.8 0 0 1 -1.8,1.83 z M 3.6,72.23 h 17.82 v -29 H 3.6 Z"
+           id="path13"
+           style="fill:#576065" />
+        <path
+           class="cls-8"
+           d="M 62.56,66.94 H 38.85 a 1.8,1.8 0 0 1 0,-3.6 h 23.71 a 1.8,1.8 0 1 1 0,3.6 z"
+           id="path14"
+           style="fill:#576065" />
+      </g>
+    </g>
+  </g>
+</svg>
