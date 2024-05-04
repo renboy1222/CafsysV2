@@ -193,6 +193,7 @@ public class JDialogEditPrice extends javax.swing.JDialog implements MouseListen
 //        saveTodaysMenu();
         JDialogUpdatePrice updatePrice = new JDialogUpdatePrice(jFrameCafSys, true, editPrice);
         updatePrice.setVisible(true);
+        selectMenus();
         
 
     }//GEN-LAST:event_jButtonTodaysMenuActionPerformed
