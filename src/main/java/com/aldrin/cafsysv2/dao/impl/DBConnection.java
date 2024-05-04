@@ -23,13 +23,9 @@ public class DBConnection {
                 if (this.getCon() == null || this.getCon().isClosed()) {
                     try {
 //                        MySQL
-                        String url = "jdbc:mysql://localhost:3306/cafsys2";
+                        String url = "jdbc:mysql://localhost:3306/cafsys";
                         Class.forName("com.mysql.cj.jdbc.Driver");
-//                        String url = "jdbc:derby://localhost:1527/C:\\Users\\aldri\\Documents\\NetBeansProjects\\CafSysv2\\cafsys_db";
-//                        Class.forName("org.apache.derby.jdbc.ClientDriver");
-//                        String url = "jdbc:derby:cafsys_db;";
-//                        Class.forName("org.apache.derby.jdbc.EmbeddedDriver");
-                        setCon(DriverManager.getConnection(url, "root", "aldrin"));
+                        setCon(DriverManager.getConnection(url, "root", ""));
                     } catch (Exception e) {
                         e.printStackTrace();
                     }

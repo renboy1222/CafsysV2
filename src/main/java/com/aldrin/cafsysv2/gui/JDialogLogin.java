@@ -9,8 +9,6 @@ import com.aldrin.cafsysv2.model.UserAccount;
 import com.aldrin.cafsysv2.util.LoginUser;
 import com.formdev.flatlaf.FlatClientProperties;
 import com.formdev.flatlaf.extras.FlatSVGIcon;
-import java.awt.event.ActionListener;
-import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
