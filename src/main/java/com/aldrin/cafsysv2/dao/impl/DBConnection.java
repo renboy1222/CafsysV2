@@ -23,7 +23,7 @@ public class DBConnection {
                 if (this.getCon() == null || this.getCon().isClosed()) {
                     try {
 //                        MySQL
-                        String url = "jdbc:mysql://localhost:3306/cafsys";
+                        String url = "jdbc:mysql://localhost:3306/cafsys2";
                         Class.forName("com.mysql.cj.jdbc.Driver");
 //                        String url = "jdbc:derby://localhost:1527/C:\\Users\\aldri\\Documents\\NetBeansProjects\\CafSysv2\\cafsys_db";
 //                        Class.forName("org.apache.derby.jdbc.ClientDriver");
