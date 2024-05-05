@@ -380,20 +380,31 @@ public class JDialogTodaysMenu extends javax.swing.JDialog implements MouseListe
     private void saveTodaysMenu() {
         int response = JOptionPane.showConfirmDialog(rootPane, "Are you sure to save this following for menu for this day?", "Save today's menu", JOptionPane.YES_NO_OPTION);
         if (response == JOptionPane.YES_OPTION) {
+
             for (int i = 0; i < jTable1.getRowCount(); i++) {
                 Long menuId = (Long) jTable1.getValueAt(i, 0);
                 Boolean isSelected = (Boolean) jTable1.getValueAt(i, 2);
-                Float pricel = (Float) jTable1.getValueAt(i, 5);
-                if (todaysMenuDAOImpl.getTodaysMenuUpdated(menuId)) {
-                    if (isSelected == false) {
-                        todaysMenuDAOImpl.updateTodaysD2(menuId);
-                    }else{
+                Object price = jTable1.getValueAt(i, 5);
+                Boolean motd = (Boolean) jTable1.getValueAt(i, 2);
+                if (todaysMenuDAOImpl.getTodaysMenuUpdated(menuId) == true) {
+                    if (motd == true) {
                         todaysMenuDAOImpl.updateTodaysMenu(menuId);
                     }
-                }else{
-                    menu.setId(menuId);
-                    menu.setPrice(pricel);
-                    todaysMenuDAOImpl.addMenuOfTheDay(menu);
+                } else {
+                    if (motd == true) {
+                        menu.setId(menuId);
+                        menu.setPrice(Float.parseFloat(price.toString()));
+                        if (todaysMenuDAOImpl.getTodaysMenuDeletedRecover(menuId)) {
+
+                        } else {
+                            todaysMenuDAOImpl.addMenuOfTheDay(menu);
+                        }
+                    }
+                }
+                if (todaysMenuDAOImpl.getTodaysMenuUpdated(menuId)) {
+                    if (isSelected == false) {
+                       todaysMenuDAOImpl.updateTodaysD2(menuId);
+                    }
                 }
             }
             JOptionPane.showMessageDialog(jFrameCafSys, "Menu of the day is successfully added to menu of the day.", "Message", JOptionPane.PLAIN_MESSAGE);
